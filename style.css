@@ -1,0 +1,70 @@
+*{
+    box-sizing: border-box;
+    margin: 0%;
+    padding: 0%;
+}
+
+body{
+    background-color: beige;
+}
+
+h2{
+    position: relative;
+}
+
+p{
+    text-indent: 50px;
+    font-size: 18px;
+}
+
+section#info{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: baseline;
+    font-family: Arial, sans-serif;
+    justify-content: center;
+}
+
+
+section#hero{
+    background-image: url(imagenes/destacadofo1\(1\).jpg);height: 200px;
+    font-size: 3rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: Georgia, serif;
+}
+
+.about{
+    width: 300px;
+    border: 10px solid rgb(39, 41, 204);
+    padding: 10px;
+    margin: 20px;
+    border-style: inset;
+}
+
+.estudios{
+    width: 300px;
+    border: 10px solid rgb(39, 41, 204);
+    padding: 10px;
+    margin: 20px;
+    border-style: inset;
+}
+
+.proyectos{
+    width: 300px;
+    border: 10px solid rgb(39, 41, 204);
+    padding: 10px;
+    margin: 20px;
+    border-style: inset;
+}
+
+.datos{
+    width: 300px;
+    border: 10px solid rgb(39, 41, 204);
+    padding: 10px;
+    margin: 20px;
+    border-style: inset;
+}
+
+
